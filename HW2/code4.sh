@@ -1,0 +1,5 @@
+greet(){
+	echo "Hi!"
+}
+
+greet
